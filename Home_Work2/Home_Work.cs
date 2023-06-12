@@ -271,7 +271,7 @@ namespace Home_Work2
             int[] intArray = { 1, 5, 6, 8, 7, 97, 54, 887, 65, 578 };
             int sum = intArray.Sum();
 
-            labshow.Text = $"int陣列arr0711[1,5,6,8,7,97,54,887,65,578]" + '\n'
+            labshow.Text = "int陣列arr0711[1,5,6,8,7,97,54,887,65,578]" + '\n'
                                   + $"加總為  {sum}";
 
         }
